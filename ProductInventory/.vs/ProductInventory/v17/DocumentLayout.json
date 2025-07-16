@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|c:\\users\\ayman\\source\\repos\\productinventory\\productinventory\\productinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1A998E6-5BC8-4B31-B1FE-8F41551EEF74}|ProductInventory\\ProductInventory.csproj|solutionrelative:productinventory\\productinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductInventory\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\appsettings.json",
+              "RelativeToolTip": "ProductInventory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T06:21:55.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Program.cs",
+              "RelativeDocumentMoniker": "ProductInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Program.cs",
+              "RelativeToolTip": "ProductInventory\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:20:00.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductInventory\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductInventory\\Services\\ProductService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:11:21.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductInventory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Models\\Product.cs",
+              "RelativeToolTip": "ProductInventory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:11:05.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductInventory\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductInventory\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:00:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductInventory\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductInventory\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:15:18.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "ProductInventory\\Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "ProductInventory\\Data\\InventoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:11:49.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductInventory.csproj",
+              "DocumentMoniker": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\ProductInventory.csproj",
+              "RelativeDocumentMoniker": "ProductInventory\\ProductInventory.csproj",
+              "ToolTip": "C:\\Users\\ayman\\source\\repos\\ProductInventory\\ProductInventory\\ProductInventory.csproj",
+              "RelativeToolTip": "ProductInventory\\ProductInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T06:02:01.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
